@@ -8,6 +8,7 @@ For logic building and continuous practice
 | ------- | ------- |
 | [0001-two-sum](https://github.com/DM2712/DSA/tree/main/0001-two-sum/) | Easy |
 | [0014-longest-common-prefix](https://github.com/DM2712/DSA/tree/main/0014-longest-common-prefix/) | Easy |
+| [0027-remove-element](https://github.com/DM2712/DSA/tree/main/0027-remove-element/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -20,4 +21,8 @@ For logic building and continuous practice
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0014-longest-common-prefix](https://github.com/DM2712/DSA/tree/main/0014-longest-common-prefix/) | Easy |
+## Two Pointers
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0027-remove-element](https://github.com/DM2712/DSA/tree/main/0027-remove-element/) | Easy |
 <!---LeetCode Topics End-->
