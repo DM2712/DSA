@@ -39,6 +39,7 @@ For logic building and continuous practice
 | [0027-remove-element](https://github.com/DM2712/DSA/tree/main/0027-remove-element/) | Easy |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/DM2712/DSA/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
 | [0088-merge-sorted-array](https://github.com/DM2712/DSA/tree/main/0088-merge-sorted-array/) | Easy |
+| [0148-sort-list](https://github.com/DM2712/DSA/tree/main/0148-sort-list/) | Medium |
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -48,6 +49,7 @@ For logic building and continuous practice
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0088-merge-sorted-array](https://github.com/DM2712/DSA/tree/main/0088-merge-sorted-array/) | Easy |
+| [0148-sort-list](https://github.com/DM2712/DSA/tree/main/0148-sort-list/) | Medium |
 | [0169-majority-element](https://github.com/DM2712/DSA/tree/main/0169-majority-element/) | Easy |
 | [0217-contains-duplicate](https://github.com/DM2712/DSA/tree/main/0217-contains-duplicate/) | Easy |
 | [0435-non-overlapping-intervals](https://github.com/DM2712/DSA/tree/main/0435-non-overlapping-intervals/) | Medium |
@@ -72,6 +74,7 @@ For logic building and continuous practice
 ## Divide and Conquer
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0148-sort-list](https://github.com/DM2712/DSA/tree/main/0148-sort-list/) | Medium |
 | [0169-majority-element](https://github.com/DM2712/DSA/tree/main/0169-majority-element/) | Easy |
 | [0912-sort-an-array](https://github.com/DM2712/DSA/tree/main/0912-sort-an-array/) | Medium |
 ## Heap (Priority Queue)
@@ -81,6 +84,7 @@ For logic building and continuous practice
 ## Merge Sort
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0148-sort-list](https://github.com/DM2712/DSA/tree/main/0148-sort-list/) | Medium |
 | [0912-sort-an-array](https://github.com/DM2712/DSA/tree/main/0912-sort-an-array/) | Medium |
 ## Bucket Sort
 | Problem Name | Difficulty |
@@ -103,4 +107,8 @@ For logic building and continuous practice
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/DM2712/DSA/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
+## Linked List
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0148-sort-list](https://github.com/DM2712/DSA/tree/main/0148-sort-list/) | Medium |
 <!---LeetCode Topics End-->
