@@ -15,6 +15,7 @@ For logic building and continuous practice
 | [0169-majority-element](https://github.com/DM2712/DSA/tree/main/0169-majority-element/) | Easy |
 | [0217-contains-duplicate](https://github.com/DM2712/DSA/tree/main/0217-contains-duplicate/) | Easy |
 | [0268-missing-number](https://github.com/DM2712/DSA/tree/main/0268-missing-number/) | Easy |
+| [0322-coin-change](https://github.com/DM2712/DSA/tree/main/0322-coin-change/) | Medium |
 | [0435-non-overlapping-intervals](https://github.com/DM2712/DSA/tree/main/0435-non-overlapping-intervals/) | Medium |
 | [0704-binary-search](https://github.com/DM2712/DSA/tree/main/0704-binary-search/) | Easy |
 | [0912-sort-an-array](https://github.com/DM2712/DSA/tree/main/0912-sort-an-array/) | Medium |
@@ -66,6 +67,7 @@ For logic building and continuous practice
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0322-coin-change](https://github.com/DM2712/DSA/tree/main/0322-coin-change/) | Medium |
 | [0435-non-overlapping-intervals](https://github.com/DM2712/DSA/tree/main/0435-non-overlapping-intervals/) | Medium |
 | [0509-fibonacci-number](https://github.com/DM2712/DSA/tree/main/0509-fibonacci-number/) | Easy |
 ## Recursion
@@ -120,4 +122,8 @@ For logic building and continuous practice
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0268-missing-number](https://github.com/DM2712/DSA/tree/main/0268-missing-number/) | Easy |
+## Breadth-First Search
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0322-coin-change](https://github.com/DM2712/DSA/tree/main/0322-coin-change/) | Medium |
 <!---LeetCode Topics End-->
