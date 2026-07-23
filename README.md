@@ -17,6 +17,7 @@ For logic building and continuous practice
 | [0268-missing-number](https://github.com/DM2712/DSA/tree/main/0268-missing-number/) | Easy |
 | [0322-coin-change](https://github.com/DM2712/DSA/tree/main/0322-coin-change/) | Medium |
 | [0349-intersection-of-two-arrays](https://github.com/DM2712/DSA/tree/main/0349-intersection-of-two-arrays/) | Easy |
+| [0350-intersection-of-two-arrays-ii](https://github.com/DM2712/DSA/tree/main/0350-intersection-of-two-arrays-ii/) | Easy |
 | [0435-non-overlapping-intervals](https://github.com/DM2712/DSA/tree/main/0435-non-overlapping-intervals/) | Medium |
 | [0704-binary-search](https://github.com/DM2712/DSA/tree/main/0704-binary-search/) | Easy |
 | [0912-sort-an-array](https://github.com/DM2712/DSA/tree/main/0912-sort-an-array/) | Medium |
@@ -28,6 +29,7 @@ For logic building and continuous practice
 | [0217-contains-duplicate](https://github.com/DM2712/DSA/tree/main/0217-contains-duplicate/) | Easy |
 | [0268-missing-number](https://github.com/DM2712/DSA/tree/main/0268-missing-number/) | Easy |
 | [0349-intersection-of-two-arrays](https://github.com/DM2712/DSA/tree/main/0349-intersection-of-two-arrays/) | Easy |
+| [0350-intersection-of-two-arrays-ii](https://github.com/DM2712/DSA/tree/main/0350-intersection-of-two-arrays-ii/) | Easy |
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -46,12 +48,14 @@ For logic building and continuous practice
 | [0088-merge-sorted-array](https://github.com/DM2712/DSA/tree/main/0088-merge-sorted-array/) | Easy |
 | [0148-sort-list](https://github.com/DM2712/DSA/tree/main/0148-sort-list/) | Medium |
 | [0349-intersection-of-two-arrays](https://github.com/DM2712/DSA/tree/main/0349-intersection-of-two-arrays/) | Easy |
+| [0350-intersection-of-two-arrays-ii](https://github.com/DM2712/DSA/tree/main/0350-intersection-of-two-arrays-ii/) | Easy |
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0035-search-insert-position](https://github.com/DM2712/DSA/tree/main/0035-search-insert-position/) | Easy |
 | [0268-missing-number](https://github.com/DM2712/DSA/tree/main/0268-missing-number/) | Easy |
 | [0349-intersection-of-two-arrays](https://github.com/DM2712/DSA/tree/main/0349-intersection-of-two-arrays/) | Easy |
+| [0350-intersection-of-two-arrays-ii](https://github.com/DM2712/DSA/tree/main/0350-intersection-of-two-arrays-ii/) | Easy |
 | [0704-binary-search](https://github.com/DM2712/DSA/tree/main/0704-binary-search/) | Easy |
 ## Sorting
 | Problem Name | Difficulty |
@@ -62,6 +66,7 @@ For logic building and continuous practice
 | [0217-contains-duplicate](https://github.com/DM2712/DSA/tree/main/0217-contains-duplicate/) | Easy |
 | [0268-missing-number](https://github.com/DM2712/DSA/tree/main/0268-missing-number/) | Easy |
 | [0349-intersection-of-two-arrays](https://github.com/DM2712/DSA/tree/main/0349-intersection-of-two-arrays/) | Easy |
+| [0350-intersection-of-two-arrays-ii](https://github.com/DM2712/DSA/tree/main/0350-intersection-of-two-arrays-ii/) | Easy |
 | [0435-non-overlapping-intervals](https://github.com/DM2712/DSA/tree/main/0435-non-overlapping-intervals/) | Medium |
 | [0912-sort-an-array](https://github.com/DM2712/DSA/tree/main/0912-sort-an-array/) | Medium |
 ## Math
