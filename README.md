@@ -31,12 +31,14 @@ For logic building and continuous practice
 | [0268-missing-number](https://github.com/DM2712/DSA/tree/main/0268-missing-number/) | Easy |
 | [0349-intersection-of-two-arrays](https://github.com/DM2712/DSA/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0350-intersection-of-two-arrays-ii](https://github.com/DM2712/DSA/tree/main/0350-intersection-of-two-arrays-ii/) | Easy |
+| [0389-find-the-difference](https://github.com/DM2712/DSA/tree/main/0389-find-the-difference/) | Easy |
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0013-roman-to-integer](https://github.com/DM2712/DSA/tree/main/0013-roman-to-integer/) | Easy |
 | [0014-longest-common-prefix](https://github.com/DM2712/DSA/tree/main/0014-longest-common-prefix/) | Easy |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/DM2712/DSA/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
+| [0389-find-the-difference](https://github.com/DM2712/DSA/tree/main/0389-find-the-difference/) | Easy |
 ## Trie
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -69,6 +71,7 @@ For logic building and continuous practice
 | [0268-missing-number](https://github.com/DM2712/DSA/tree/main/0268-missing-number/) | Easy |
 | [0349-intersection-of-two-arrays](https://github.com/DM2712/DSA/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0350-intersection-of-two-arrays-ii](https://github.com/DM2712/DSA/tree/main/0350-intersection-of-two-arrays-ii/) | Easy |
+| [0389-find-the-difference](https://github.com/DM2712/DSA/tree/main/0389-find-the-difference/) | Easy |
 | [0435-non-overlapping-intervals](https://github.com/DM2712/DSA/tree/main/0435-non-overlapping-intervals/) | Medium |
 | [0912-sort-an-array](https://github.com/DM2712/DSA/tree/main/0912-sort-an-array/) | Medium |
 ## Math
@@ -135,6 +138,7 @@ For logic building and continuous practice
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0268-missing-number](https://github.com/DM2712/DSA/tree/main/0268-missing-number/) | Easy |
+| [0389-find-the-difference](https://github.com/DM2712/DSA/tree/main/0389-find-the-difference/) | Easy |
 ## Breadth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
