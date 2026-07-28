@@ -20,6 +20,7 @@ For logic building and continuous practice
 | [0350-intersection-of-two-arrays-ii](https://github.com/DM2712/DSA/tree/main/0350-intersection-of-two-arrays-ii/) | Easy |
 | [0414-third-maximum-number](https://github.com/DM2712/DSA/tree/main/0414-third-maximum-number/) | Easy |
 | [0435-non-overlapping-intervals](https://github.com/DM2712/DSA/tree/main/0435-non-overlapping-intervals/) | Medium |
+| [0645-set-mismatch](https://github.com/DM2712/DSA/tree/main/0645-set-mismatch/) | Easy |
 | [0704-binary-search](https://github.com/DM2712/DSA/tree/main/0704-binary-search/) | Easy |
 | [0747-largest-number-at-least-twice-of-others](https://github.com/DM2712/DSA/tree/main/0747-largest-number-at-least-twice-of-others/) | Easy |
 | [0912-sort-an-array](https://github.com/DM2712/DSA/tree/main/0912-sort-an-array/) | Medium |
@@ -34,6 +35,7 @@ For logic building and continuous practice
 | [0349-intersection-of-two-arrays](https://github.com/DM2712/DSA/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0350-intersection-of-two-arrays-ii](https://github.com/DM2712/DSA/tree/main/0350-intersection-of-two-arrays-ii/) | Easy |
 | [0389-find-the-difference](https://github.com/DM2712/DSA/tree/main/0389-find-the-difference/) | Easy |
+| [0645-set-mismatch](https://github.com/DM2712/DSA/tree/main/0645-set-mismatch/) | Easy |
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -76,6 +78,7 @@ For logic building and continuous practice
 | [0389-find-the-difference](https://github.com/DM2712/DSA/tree/main/0389-find-the-difference/) | Easy |
 | [0414-third-maximum-number](https://github.com/DM2712/DSA/tree/main/0414-third-maximum-number/) | Easy |
 | [0435-non-overlapping-intervals](https://github.com/DM2712/DSA/tree/main/0435-non-overlapping-intervals/) | Medium |
+| [0645-set-mismatch](https://github.com/DM2712/DSA/tree/main/0645-set-mismatch/) | Easy |
 | [0747-largest-number-at-least-twice-of-others](https://github.com/DM2712/DSA/tree/main/0747-largest-number-at-least-twice-of-others/) | Easy |
 | [0912-sort-an-array](https://github.com/DM2712/DSA/tree/main/0912-sort-an-array/) | Medium |
 ## Math
@@ -143,6 +146,7 @@ For logic building and continuous practice
 | ------- | ------- |
 | [0268-missing-number](https://github.com/DM2712/DSA/tree/main/0268-missing-number/) | Easy |
 | [0389-find-the-difference](https://github.com/DM2712/DSA/tree/main/0389-find-the-difference/) | Easy |
+| [0645-set-mismatch](https://github.com/DM2712/DSA/tree/main/0645-set-mismatch/) | Easy |
 ## Breadth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
