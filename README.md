@@ -21,6 +21,7 @@ For logic building and continuous practice
 | [0414-third-maximum-number](https://github.com/DM2712/DSA/tree/main/0414-third-maximum-number/) | Easy |
 | [0435-non-overlapping-intervals](https://github.com/DM2712/DSA/tree/main/0435-non-overlapping-intervals/) | Medium |
 | [0506-relative-ranks](https://github.com/DM2712/DSA/tree/main/0506-relative-ranks/) | Easy |
+| [0628-maximum-product-of-three-numbers](https://github.com/DM2712/DSA/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [0645-set-mismatch](https://github.com/DM2712/DSA/tree/main/0645-set-mismatch/) | Easy |
 | [0704-binary-search](https://github.com/DM2712/DSA/tree/main/0704-binary-search/) | Easy |
 | [0747-largest-number-at-least-twice-of-others](https://github.com/DM2712/DSA/tree/main/0747-largest-number-at-least-twice-of-others/) | Easy |
@@ -80,6 +81,7 @@ For logic building and continuous practice
 | [0414-third-maximum-number](https://github.com/DM2712/DSA/tree/main/0414-third-maximum-number/) | Easy |
 | [0435-non-overlapping-intervals](https://github.com/DM2712/DSA/tree/main/0435-non-overlapping-intervals/) | Medium |
 | [0506-relative-ranks](https://github.com/DM2712/DSA/tree/main/0506-relative-ranks/) | Easy |
+| [0628-maximum-product-of-three-numbers](https://github.com/DM2712/DSA/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [0645-set-mismatch](https://github.com/DM2712/DSA/tree/main/0645-set-mismatch/) | Easy |
 | [0747-largest-number-at-least-twice-of-others](https://github.com/DM2712/DSA/tree/main/0747-largest-number-at-least-twice-of-others/) | Easy |
 | [0912-sort-an-array](https://github.com/DM2712/DSA/tree/main/0912-sort-an-array/) | Medium |
@@ -89,6 +91,7 @@ For logic building and continuous practice
 | [0013-roman-to-integer](https://github.com/DM2712/DSA/tree/main/0013-roman-to-integer/) | Easy |
 | [0268-missing-number](https://github.com/DM2712/DSA/tree/main/0268-missing-number/) | Easy |
 | [0509-fibonacci-number](https://github.com/DM2712/DSA/tree/main/0509-fibonacci-number/) | Easy |
+| [0628-maximum-product-of-three-numbers](https://github.com/DM2712/DSA/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
