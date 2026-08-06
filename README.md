@@ -27,6 +27,7 @@ For logic building and continuous practice
 | [0645-set-mismatch](https://github.com/DM2712/DSA/tree/main/0645-set-mismatch/) | Easy |
 | [0704-binary-search](https://github.com/DM2712/DSA/tree/main/0704-binary-search/) | Easy |
 | [0747-largest-number-at-least-twice-of-others](https://github.com/DM2712/DSA/tree/main/0747-largest-number-at-least-twice-of-others/) | Easy |
+| [0888-fair-candy-swap](https://github.com/DM2712/DSA/tree/main/0888-fair-candy-swap/) | Easy |
 | [0912-sort-an-array](https://github.com/DM2712/DSA/tree/main/0912-sort-an-array/) | Medium |
 ## Hash Table
 | Problem Name | Difficulty |
@@ -41,6 +42,7 @@ For logic building and continuous practice
 | [0389-find-the-difference](https://github.com/DM2712/DSA/tree/main/0389-find-the-difference/) | Easy |
 | [0594-longest-harmonious-subsequence](https://github.com/DM2712/DSA/tree/main/0594-longest-harmonious-subsequence/) | Easy |
 | [0645-set-mismatch](https://github.com/DM2712/DSA/tree/main/0645-set-mismatch/) | Easy |
+| [0888-fair-candy-swap](https://github.com/DM2712/DSA/tree/main/0888-fair-candy-swap/) | Easy |
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -70,6 +72,7 @@ For logic building and continuous practice
 | [0349-intersection-of-two-arrays](https://github.com/DM2712/DSA/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0350-intersection-of-two-arrays-ii](https://github.com/DM2712/DSA/tree/main/0350-intersection-of-two-arrays-ii/) | Easy |
 | [0704-binary-search](https://github.com/DM2712/DSA/tree/main/0704-binary-search/) | Easy |
+| [0888-fair-candy-swap](https://github.com/DM2712/DSA/tree/main/0888-fair-candy-swap/) | Easy |
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -89,6 +92,7 @@ For logic building and continuous practice
 | [0628-maximum-product-of-three-numbers](https://github.com/DM2712/DSA/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [0645-set-mismatch](https://github.com/DM2712/DSA/tree/main/0645-set-mismatch/) | Easy |
 | [0747-largest-number-at-least-twice-of-others](https://github.com/DM2712/DSA/tree/main/0747-largest-number-at-least-twice-of-others/) | Easy |
+| [0888-fair-candy-swap](https://github.com/DM2712/DSA/tree/main/0888-fair-candy-swap/) | Easy |
 | [0912-sort-an-array](https://github.com/DM2712/DSA/tree/main/0912-sort-an-array/) | Medium |
 ## Math
 | Problem Name | Difficulty |
