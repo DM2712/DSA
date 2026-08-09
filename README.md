@@ -23,6 +23,7 @@ For logic building and continuous practice
 | [0435-non-overlapping-intervals](https://github.com/DM2712/DSA/tree/main/0435-non-overlapping-intervals/) | Medium |
 | [0455-assign-cookies](https://github.com/DM2712/DSA/tree/main/0455-assign-cookies/) | Easy |
 | [0506-relative-ranks](https://github.com/DM2712/DSA/tree/main/0506-relative-ranks/) | Easy |
+| [0561-array-partition](https://github.com/DM2712/DSA/tree/main/0561-array-partition/) | Easy |
 | [0594-longest-harmonious-subsequence](https://github.com/DM2712/DSA/tree/main/0594-longest-harmonious-subsequence/) | Easy |
 | [0628-maximum-product-of-three-numbers](https://github.com/DM2712/DSA/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [0645-set-mismatch](https://github.com/DM2712/DSA/tree/main/0645-set-mismatch/) | Easy |
@@ -91,6 +92,7 @@ For logic building and continuous practice
 | [0435-non-overlapping-intervals](https://github.com/DM2712/DSA/tree/main/0435-non-overlapping-intervals/) | Medium |
 | [0455-assign-cookies](https://github.com/DM2712/DSA/tree/main/0455-assign-cookies/) | Easy |
 | [0506-relative-ranks](https://github.com/DM2712/DSA/tree/main/0506-relative-ranks/) | Easy |
+| [0561-array-partition](https://github.com/DM2712/DSA/tree/main/0561-array-partition/) | Easy |
 | [0594-longest-harmonious-subsequence](https://github.com/DM2712/DSA/tree/main/0594-longest-harmonious-subsequence/) | Easy |
 | [0628-maximum-product-of-three-numbers](https://github.com/DM2712/DSA/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [0645-set-mismatch](https://github.com/DM2712/DSA/tree/main/0645-set-mismatch/) | Easy |
@@ -146,6 +148,7 @@ For logic building and continuous practice
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0169-majority-element](https://github.com/DM2712/DSA/tree/main/0169-majority-element/) | Easy |
+| [0561-array-partition](https://github.com/DM2712/DSA/tree/main/0561-array-partition/) | Easy |
 | [0594-longest-harmonious-subsequence](https://github.com/DM2712/DSA/tree/main/0594-longest-harmonious-subsequence/) | Easy |
 | [0912-sort-an-array](https://github.com/DM2712/DSA/tree/main/0912-sort-an-array/) | Medium |
 ## Greedy
@@ -153,6 +156,7 @@ For logic building and continuous practice
 | ------- | ------- |
 | [0435-non-overlapping-intervals](https://github.com/DM2712/DSA/tree/main/0435-non-overlapping-intervals/) | Medium |
 | [0455-assign-cookies](https://github.com/DM2712/DSA/tree/main/0455-assign-cookies/) | Easy |
+| [0561-array-partition](https://github.com/DM2712/DSA/tree/main/0561-array-partition/) | Easy |
 ## String Matching
 | Problem Name | Difficulty |
 | ------- | ------- |
