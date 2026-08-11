@@ -30,6 +30,7 @@ For logic building and continuous practice
 | [0704-binary-search](https://github.com/DM2712/DSA/tree/main/0704-binary-search/) | Easy |
 | [0747-largest-number-at-least-twice-of-others](https://github.com/DM2712/DSA/tree/main/0747-largest-number-at-least-twice-of-others/) | Easy |
 | [0888-fair-candy-swap](https://github.com/DM2712/DSA/tree/main/0888-fair-candy-swap/) | Easy |
+| [0905-sort-array-by-parity](https://github.com/DM2712/DSA/tree/main/0905-sort-array-by-parity/) | Easy |
 | [0912-sort-an-array](https://github.com/DM2712/DSA/tree/main/0912-sort-an-array/) | Medium |
 ## Hash Table
 | Problem Name | Difficulty |
@@ -67,6 +68,7 @@ For logic building and continuous practice
 | [0349-intersection-of-two-arrays](https://github.com/DM2712/DSA/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0350-intersection-of-two-arrays-ii](https://github.com/DM2712/DSA/tree/main/0350-intersection-of-two-arrays-ii/) | Easy |
 | [0455-assign-cookies](https://github.com/DM2712/DSA/tree/main/0455-assign-cookies/) | Easy |
+| [0905-sort-array-by-parity](https://github.com/DM2712/DSA/tree/main/0905-sort-array-by-parity/) | Easy |
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -98,6 +100,7 @@ For logic building and continuous practice
 | [0645-set-mismatch](https://github.com/DM2712/DSA/tree/main/0645-set-mismatch/) | Easy |
 | [0747-largest-number-at-least-twice-of-others](https://github.com/DM2712/DSA/tree/main/0747-largest-number-at-least-twice-of-others/) | Easy |
 | [0888-fair-candy-swap](https://github.com/DM2712/DSA/tree/main/0888-fair-candy-swap/) | Easy |
+| [0905-sort-array-by-parity](https://github.com/DM2712/DSA/tree/main/0905-sort-array-by-parity/) | Easy |
 | [0912-sort-an-array](https://github.com/DM2712/DSA/tree/main/0912-sort-an-array/) | Medium |
 ## Math
 | Problem Name | Difficulty |
