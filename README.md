@@ -13,6 +13,7 @@ For logic building and continuous practice
 | [0035-search-insert-position](https://github.com/DM2712/DSA/tree/main/0035-search-insert-position/) | Easy |
 | [0056-merge-intervals](https://github.com/DM2712/DSA/tree/main/0056-merge-intervals/) | Medium |
 | [0088-merge-sorted-array](https://github.com/DM2712/DSA/tree/main/0088-merge-sorted-array/) | Easy |
+| [0136-single-number](https://github.com/DM2712/DSA/tree/main/0136-single-number/) | Easy |
 | [0169-majority-element](https://github.com/DM2712/DSA/tree/main/0169-majority-element/) | Easy |
 | [0217-contains-duplicate](https://github.com/DM2712/DSA/tree/main/0217-contains-duplicate/) | Easy |
 | [0268-missing-number](https://github.com/DM2712/DSA/tree/main/0268-missing-number/) | Easy |
@@ -177,6 +178,7 @@ For logic building and continuous practice
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0136-single-number](https://github.com/DM2712/DSA/tree/main/0136-single-number/) | Easy |
 | [0268-missing-number](https://github.com/DM2712/DSA/tree/main/0268-missing-number/) | Easy |
 | [0389-find-the-difference](https://github.com/DM2712/DSA/tree/main/0389-find-the-difference/) | Easy |
 | [0645-set-mismatch](https://github.com/DM2712/DSA/tree/main/0645-set-mismatch/) | Easy |
