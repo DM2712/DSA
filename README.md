@@ -16,6 +16,7 @@ For logic building and continuous practice
 | [0136-single-number](https://github.com/DM2712/DSA/tree/main/0136-single-number/) | Easy |
 | [0169-majority-element](https://github.com/DM2712/DSA/tree/main/0169-majority-element/) | Easy |
 | [0217-contains-duplicate](https://github.com/DM2712/DSA/tree/main/0217-contains-duplicate/) | Easy |
+| [0228-summary-ranges](https://github.com/DM2712/DSA/tree/main/0228-summary-ranges/) | Easy |
 | [0268-missing-number](https://github.com/DM2712/DSA/tree/main/0268-missing-number/) | Easy |
 | [0322-coin-change](https://github.com/DM2712/DSA/tree/main/0322-coin-change/) | Medium |
 | [0349-intersection-of-two-arrays](https://github.com/DM2712/DSA/tree/main/0349-intersection-of-two-arrays/) | Easy |
