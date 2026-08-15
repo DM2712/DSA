@@ -14,6 +14,7 @@ For logic building and continuous practice
 | [0056-merge-intervals](https://github.com/DM2712/DSA/tree/main/0056-merge-intervals/) | Medium |
 | [0088-merge-sorted-array](https://github.com/DM2712/DSA/tree/main/0088-merge-sorted-array/) | Easy |
 | [0136-single-number](https://github.com/DM2712/DSA/tree/main/0136-single-number/) | Easy |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/DM2712/DSA/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0169-majority-element](https://github.com/DM2712/DSA/tree/main/0169-majority-element/) | Easy |
 | [0217-contains-duplicate](https://github.com/DM2712/DSA/tree/main/0217-contains-duplicate/) | Easy |
 | [0228-summary-ranges](https://github.com/DM2712/DSA/tree/main/0228-summary-ranges/) | Easy |
@@ -69,6 +70,7 @@ For logic building and continuous practice
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/DM2712/DSA/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
 | [0088-merge-sorted-array](https://github.com/DM2712/DSA/tree/main/0088-merge-sorted-array/) | Easy |
 | [0148-sort-list](https://github.com/DM2712/DSA/tree/main/0148-sort-list/) | Medium |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/DM2712/DSA/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0349-intersection-of-two-arrays](https://github.com/DM2712/DSA/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0350-intersection-of-two-arrays-ii](https://github.com/DM2712/DSA/tree/main/0350-intersection-of-two-arrays-ii/) | Easy |
 | [0455-assign-cookies](https://github.com/DM2712/DSA/tree/main/0455-assign-cookies/) | Easy |
@@ -79,6 +81,7 @@ For logic building and continuous practice
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0035-search-insert-position](https://github.com/DM2712/DSA/tree/main/0035-search-insert-position/) | Easy |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/DM2712/DSA/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0268-missing-number](https://github.com/DM2712/DSA/tree/main/0268-missing-number/) | Easy |
 | [0349-intersection-of-two-arrays](https://github.com/DM2712/DSA/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0350-intersection-of-two-arrays-ii](https://github.com/DM2712/DSA/tree/main/0350-intersection-of-two-arrays-ii/) | Easy |
