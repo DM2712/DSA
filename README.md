@@ -44,6 +44,7 @@ For logic building and continuous practice
 | [0001-two-sum](https://github.com/DM2712/DSA/tree/main/0001-two-sum/) | Easy |
 | [0013-roman-to-integer](https://github.com/DM2712/DSA/tree/main/0013-roman-to-integer/) | Easy |
 | [0169-majority-element](https://github.com/DM2712/DSA/tree/main/0169-majority-element/) | Easy |
+| [0202-happy-number](https://github.com/DM2712/DSA/tree/main/0202-happy-number/) | Easy |
 | [0217-contains-duplicate](https://github.com/DM2712/DSA/tree/main/0217-contains-duplicate/) | Easy |
 | [0268-missing-number](https://github.com/DM2712/DSA/tree/main/0268-missing-number/) | Easy |
 | [0349-intersection-of-two-arrays](https://github.com/DM2712/DSA/tree/main/0349-intersection-of-two-arrays/) | Easy |
@@ -72,6 +73,7 @@ For logic building and continuous practice
 | [0088-merge-sorted-array](https://github.com/DM2712/DSA/tree/main/0088-merge-sorted-array/) | Easy |
 | [0148-sort-list](https://github.com/DM2712/DSA/tree/main/0148-sort-list/) | Medium |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/DM2712/DSA/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
+| [0202-happy-number](https://github.com/DM2712/DSA/tree/main/0202-happy-number/) | Easy |
 | [0349-intersection-of-two-arrays](https://github.com/DM2712/DSA/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0350-intersection-of-two-arrays-ii](https://github.com/DM2712/DSA/tree/main/0350-intersection-of-two-arrays-ii/) | Easy |
 | [0455-assign-cookies](https://github.com/DM2712/DSA/tree/main/0455-assign-cookies/) | Easy |
@@ -119,6 +121,7 @@ For logic building and continuous practice
 | ------- | ------- |
 | [0009-palindrome-number](https://github.com/DM2712/DSA/tree/main/0009-palindrome-number/) | Easy |
 | [0013-roman-to-integer](https://github.com/DM2712/DSA/tree/main/0013-roman-to-integer/) | Easy |
+| [0202-happy-number](https://github.com/DM2712/DSA/tree/main/0202-happy-number/) | Easy |
 | [0268-missing-number](https://github.com/DM2712/DSA/tree/main/0268-missing-number/) | Easy |
 | [0509-fibonacci-number](https://github.com/DM2712/DSA/tree/main/0509-fibonacci-number/) | Easy |
 | [0628-maximum-product-of-three-numbers](https://github.com/DM2712/DSA/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
@@ -204,4 +207,8 @@ For logic building and continuous practice
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1480-running-sum-of-1d-array](https://github.com/DM2712/DSA/tree/main/1480-running-sum-of-1d-array/) | Easy |
+## Floyd's Cycle Finding Algorithm
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0202-happy-number](https://github.com/DM2712/DSA/tree/main/0202-happy-number/) | Easy |
 <!---LeetCode Topics End-->
