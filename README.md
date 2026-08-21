@@ -37,6 +37,7 @@ For logic building and continuous practice
 | [0912-sort-an-array](https://github.com/DM2712/DSA/tree/main/0912-sort-an-array/) | Medium |
 | [0922-sort-array-by-parity-ii](https://github.com/DM2712/DSA/tree/main/0922-sort-array-by-parity-ii/) | Easy |
 | [0977-squares-of-a-sorted-array](https://github.com/DM2712/DSA/tree/main/0977-squares-of-a-sorted-array/) | Easy |
+| [1051-height-checker](https://github.com/DM2712/DSA/tree/main/1051-height-checker/) | Easy |
 | [1480-running-sum-of-1d-array](https://github.com/DM2712/DSA/tree/main/1480-running-sum-of-1d-array/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
@@ -116,6 +117,7 @@ For logic building and continuous practice
 | [0912-sort-an-array](https://github.com/DM2712/DSA/tree/main/0912-sort-an-array/) | Medium |
 | [0922-sort-array-by-parity-ii](https://github.com/DM2712/DSA/tree/main/0922-sort-array-by-parity-ii/) | Easy |
 | [0977-squares-of-a-sorted-array](https://github.com/DM2712/DSA/tree/main/0977-squares-of-a-sorted-array/) | Easy |
+| [1051-height-checker](https://github.com/DM2712/DSA/tree/main/1051-height-checker/) | Easy |
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -170,6 +172,7 @@ For logic building and continuous practice
 | [0561-array-partition](https://github.com/DM2712/DSA/tree/main/0561-array-partition/) | Easy |
 | [0594-longest-harmonious-subsequence](https://github.com/DM2712/DSA/tree/main/0594-longest-harmonious-subsequence/) | Easy |
 | [0912-sort-an-array](https://github.com/DM2712/DSA/tree/main/0912-sort-an-array/) | Medium |
+| [1051-height-checker](https://github.com/DM2712/DSA/tree/main/1051-height-checker/) | Easy |
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -211,4 +214,8 @@ For logic building and continuous practice
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0202-happy-number](https://github.com/DM2712/DSA/tree/main/0202-happy-number/) | Easy |
+## Bubble Sort
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1051-height-checker](https://github.com/DM2712/DSA/tree/main/1051-height-checker/) | Easy |
 <!---LeetCode Topics End-->
