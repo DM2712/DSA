@@ -60,6 +60,7 @@ For logic building and continuous practice
 | [0013-roman-to-integer](https://github.com/DM2712/DSA/tree/main/0013-roman-to-integer/) | Easy |
 | [0014-longest-common-prefix](https://github.com/DM2712/DSA/tree/main/0014-longest-common-prefix/) | Easy |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/DM2712/DSA/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
+| [0344-reverse-string](https://github.com/DM2712/DSA/tree/main/0344-reverse-string/) | Easy |
 | [0389-find-the-difference](https://github.com/DM2712/DSA/tree/main/0389-find-the-difference/) | Easy |
 ## Trie
 | Problem Name | Difficulty |
@@ -75,6 +76,7 @@ For logic building and continuous practice
 | [0148-sort-list](https://github.com/DM2712/DSA/tree/main/0148-sort-list/) | Medium |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/DM2712/DSA/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0202-happy-number](https://github.com/DM2712/DSA/tree/main/0202-happy-number/) | Easy |
+| [0344-reverse-string](https://github.com/DM2712/DSA/tree/main/0344-reverse-string/) | Easy |
 | [0349-intersection-of-two-arrays](https://github.com/DM2712/DSA/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0350-intersection-of-two-arrays-ii](https://github.com/DM2712/DSA/tree/main/0350-intersection-of-two-arrays-ii/) | Easy |
 | [0455-assign-cookies](https://github.com/DM2712/DSA/tree/main/0455-assign-cookies/) | Easy |
