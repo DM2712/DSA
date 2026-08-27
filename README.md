@@ -17,6 +17,7 @@ For logic building and continuous practice
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/DM2712/DSA/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0169-majority-element](https://github.com/DM2712/DSA/tree/main/0169-majority-element/) | Easy |
 | [0217-contains-duplicate](https://github.com/DM2712/DSA/tree/main/0217-contains-duplicate/) | Easy |
+| [0219-contains-duplicate-ii](https://github.com/DM2712/DSA/tree/main/0219-contains-duplicate-ii/) | Easy |
 | [0228-summary-ranges](https://github.com/DM2712/DSA/tree/main/0228-summary-ranges/) | Easy |
 | [0268-missing-number](https://github.com/DM2712/DSA/tree/main/0268-missing-number/) | Easy |
 | [0322-coin-change](https://github.com/DM2712/DSA/tree/main/0322-coin-change/) | Medium |
@@ -47,6 +48,7 @@ For logic building and continuous practice
 | [0169-majority-element](https://github.com/DM2712/DSA/tree/main/0169-majority-element/) | Easy |
 | [0202-happy-number](https://github.com/DM2712/DSA/tree/main/0202-happy-number/) | Easy |
 | [0217-contains-duplicate](https://github.com/DM2712/DSA/tree/main/0217-contains-duplicate/) | Easy |
+| [0219-contains-duplicate-ii](https://github.com/DM2712/DSA/tree/main/0219-contains-duplicate-ii/) | Easy |
 | [0268-missing-number](https://github.com/DM2712/DSA/tree/main/0268-missing-number/) | Easy |
 | [0349-intersection-of-two-arrays](https://github.com/DM2712/DSA/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0350-intersection-of-two-arrays-ii](https://github.com/DM2712/DSA/tree/main/0350-intersection-of-two-arrays-ii/) | Easy |
@@ -203,6 +205,7 @@ For logic building and continuous practice
 ## Sliding Window
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0219-contains-duplicate-ii](https://github.com/DM2712/DSA/tree/main/0219-contains-duplicate-ii/) | Easy |
 | [0594-longest-harmonious-subsequence](https://github.com/DM2712/DSA/tree/main/0594-longest-harmonious-subsequence/) | Easy |
 ## Quicksort
 | Problem Name | Difficulty |
