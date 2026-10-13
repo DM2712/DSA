@@ -127,6 +127,7 @@ For logic building and continuous practice
 | ------- | ------- |
 | [0009-palindrome-number](https://github.com/DM2712/DSA/tree/main/0009-palindrome-number/) | Easy |
 | [0013-roman-to-integer](https://github.com/DM2712/DSA/tree/main/0013-roman-to-integer/) | Easy |
+| [0096-unique-binary-search-trees](https://github.com/DM2712/DSA/tree/main/0096-unique-binary-search-trees/) | Medium |
 | [0202-happy-number](https://github.com/DM2712/DSA/tree/main/0202-happy-number/) | Easy |
 | [0268-missing-number](https://github.com/DM2712/DSA/tree/main/0268-missing-number/) | Easy |
 | [0509-fibonacci-number](https://github.com/DM2712/DSA/tree/main/0509-fibonacci-number/) | Easy |
@@ -134,6 +135,7 @@ For logic building and continuous practice
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0096-unique-binary-search-trees](https://github.com/DM2712/DSA/tree/main/0096-unique-binary-search-trees/) | Medium |
 | [0322-coin-change](https://github.com/DM2712/DSA/tree/main/0322-coin-change/) | Medium |
 | [0435-non-overlapping-intervals](https://github.com/DM2712/DSA/tree/main/0435-non-overlapping-intervals/) | Medium |
 | [0509-fibonacci-number](https://github.com/DM2712/DSA/tree/main/0509-fibonacci-number/) | Easy |
@@ -223,4 +225,16 @@ For logic building and continuous practice
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1051-height-checker](https://github.com/DM2712/DSA/tree/main/1051-height-checker/) | Easy |
+## Tree
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0096-unique-binary-search-trees](https://github.com/DM2712/DSA/tree/main/0096-unique-binary-search-trees/) | Medium |
+## Binary Search Tree
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0096-unique-binary-search-trees](https://github.com/DM2712/DSA/tree/main/0096-unique-binary-search-trees/) | Medium |
+## Binary Tree
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0096-unique-binary-search-trees](https://github.com/DM2712/DSA/tree/main/0096-unique-binary-search-trees/) | Medium |
 <!---LeetCode Topics End-->
