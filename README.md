@@ -127,6 +127,7 @@ For logic building and continuous practice
 | ------- | ------- |
 | [0009-palindrome-number](https://github.com/DM2712/DSA/tree/main/0009-palindrome-number/) | Easy |
 | [0013-roman-to-integer](https://github.com/DM2712/DSA/tree/main/0013-roman-to-integer/) | Easy |
+| [0070-climbing-stairs](https://github.com/DM2712/DSA/tree/main/0070-climbing-stairs/) | Easy |
 | [0096-unique-binary-search-trees](https://github.com/DM2712/DSA/tree/main/0096-unique-binary-search-trees/) | Medium |
 | [0202-happy-number](https://github.com/DM2712/DSA/tree/main/0202-happy-number/) | Easy |
 | [0268-missing-number](https://github.com/DM2712/DSA/tree/main/0268-missing-number/) | Easy |
@@ -135,6 +136,7 @@ For logic building and continuous practice
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0070-climbing-stairs](https://github.com/DM2712/DSA/tree/main/0070-climbing-stairs/) | Easy |
 | [0096-unique-binary-search-trees](https://github.com/DM2712/DSA/tree/main/0096-unique-binary-search-trees/) | Medium |
 | [0322-coin-change](https://github.com/DM2712/DSA/tree/main/0322-coin-change/) | Medium |
 | [0435-non-overlapping-intervals](https://github.com/DM2712/DSA/tree/main/0435-non-overlapping-intervals/) | Medium |
@@ -146,6 +148,7 @@ For logic building and continuous practice
 ## Memoization
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0070-climbing-stairs](https://github.com/DM2712/DSA/tree/main/0070-climbing-stairs/) | Easy |
 | [0509-fibonacci-number](https://github.com/DM2712/DSA/tree/main/0509-fibonacci-number/) | Easy |
 ## Divide and Conquer
 | Problem Name | Difficulty |
